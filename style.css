@@ -1,0 +1,274 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	color: #ccc;
+	background: #111 url('bbg.png');
+	font-size: 12pt;
+	margin: 0;
+}
+#wrapper {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	overflow: auto;
+}
+#pre_footer {
+	min-height: 100%;
+}
+#push {
+	clear: both;
+}
+#push, #footer, #header {
+	height: 65px;
+}
+#footer {
+	margin-top: -65px;
+	font-size: 10pt;
+}
+#header, #footer {
+	color: #fff;
+}
+#header, #footer {
+	background: #444;
+	background: rgba(50, 50, 50, 0.45);
+	min-width: 920px;
+}
+.center {
+	margin: 0 auto;
+	width: 900px;
+	padding: 0 10px;
+}
+.padded {
+	padding-top: 15px;
+}
+#logo {
+	font-size: 18pt;
+}
+#logo, h1, h2, th, .button, button {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: normal;
+}
+#menu {
+	float: right;
+	margin-top: 6px;
+}
+a[href] {
+	color: #6ad;
+	text-decoration: inherit;
+}
+a[href]:hover {
+	color: #d66;
+	text-decoration: underline;
+}
+:not(:target) :target {
+	text-decoration: underline;
+}
+#menu a {
+	color: inherit;
+	padding: 15px 15px;
+}
+#menu a:hover {
+	color: inherit;
+	text-decoration: inherit;
+	background: #666;
+	background: rgba(127, 127, 127, 0.2);
+}
+#theme a, #theme a:hover {
+	color: inherit;
+}
+#theme {
+	font-size: 10pt;
+	margin-right: 15px;
+}
+div.red a, div.blue a, div.red a:hover, div.blue a:hover {
+	color: inherit;
+}
+h1 {
+	font-size: 14pt;
+	margin: 10px 0;
+	padding: 0 0 0 40px;
+}
+h2 {
+	font-size: inherit;
+	margin: 0;
+	padding: 0 0 0 10px;
+}
+strong {
+	font-weight: inherit;
+	color: #d66;
+}
+#copy, #theme {
+	float: right;
+}
+div.red, div.green, div.blue, .content {
+	padding: 5px 10px;
+}
+div.red, div.green, div.blue {
+	margin-bottom: 5px;
+	color: #eee;
+}
+div.red {
+	background: #633;
+	background: rgba(221, 102, 102, 0.45);
+}
+div.blue {
+	background: #357;
+	background: rgba(102, 170, 221, 0.45);
+}
+div.green {
+	background: #6ad;
+	background: rgba(102, 221, 102, 0.45);
+}
+
+.content, .button {
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	margin-bottom: 20px;
+	color: #aaa;
+}
+
+table {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+tr ~ tr td {
+	border-top: 1px solid #222;
+}
+tr.red td {
+	background: #100;
+	background: rgba(255, 0, 0, 0.05);
+}
+tr.green td {
+	background: #010;
+	background: rgba(0, 255, 0, 0.05);
+}
+tr:hover td {
+	background: #111;
+	background: rgba(255, 255, 255, 0.05);
+}
+.left_box, .left {
+	float: left;
+	
+}
+.left_box {
+	width: 250px;		
+}
+
+.left_box_skip, .left {
+	float: left;
+	
+}
+.left_box_skip {
+	width: 250px;
+	position: fixed;	
+}
+
+.right_box, .right {
+	float: right;
+}
+.right_box {
+	width: 630px;
+}
+th, td {
+	padding: 0;
+}
+.board th, .board td {
+	text-align: left;
+}
+.board td {
+	padding: 5px 0;
+	font-size: 11pt;
+	font-weight: bold;
+}
+.commands {
+	table-layout: auto;
+}
+.commands td:first-child {
+	padding-right: 20px;
+	width: 1px;
+	white-space: nowrap;
+}
+.commands td {
+	padding: 5px 0;
+}
+.button {
+	display: table;
+	padding: 10px 20px;
+	margin-right: 10px;
+}
+.button, button {
+	color: #6ad;
+	text-align: center;
+}
+.button.right {
+	margin-right: 0;
+	margin-left: 10px;
+}
+button {
+	cursor: pointer;
+	box-sizing: content-box;
+	align-items: stretch;
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	height: 20px;
+	line-height: 18px;
+	margin: 0;
+	padding: 0 20px;
+	border: 1px solid #444;
+}
+.left_arrow {
+	background: #000 url('larrow.png') no-repeat center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.right_arrow {
+	background: #000 url('rarrow.png') no-repeat center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.asc, .desc {
+	padding: 0 5px;
+}
+.asc {
+	background: transparent url('asort.png') no-repeat center;
+}
+.desc {
+	background: transparent url('dsort.png') no-repeat center;
+}
+.button:hover, button:hover {
+	background-color: #111;
+	background-color: rgba(127, 127, 127, 0.2);
+}
+select {
+	width: 238px;
+	height: 20px;
+	padding: 0;
+}
+input:not([type]), textarea, select, button {
+	font-size: 10pt;
+}
+input:not([type]), textarea, select {
+	font-family: 'Open Sans', sans-serif;
+	box-sizing: content-box;
+	border: 1px solid #444;
+}
+input:not([type]), textarea {
+	background: #000;
+	background: rgba(0, 0, 0, 0.5);
+	color: #fff;
+	width: 234px;
+	height: 16px;
+	padding: 2px;
+}
+textarea {
+	width: 314px;
+	height: 74px;
+}
+iframe {
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+}
+
+img.outline {
+    -webkit-filter: drop-shadow(1px 1px 2px darkgrey) drop-shadow(-1px -1px 2px darkgrey);
+    filter:drop-shadow(1px 1px 2px darkgrey) drop-shadow(-1px -1px 2px darkgrey);
+}

@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=https://youtu.be/IAy0WNH7Ls4?t=21m35s" />
