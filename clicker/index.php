@@ -1,1 +1,0 @@
-<META HTTP-EQUIV="refresh" CONTENT="1;URL=http://gather.soldat.pl/clicker/mIRCSoldatClicker.zip">
