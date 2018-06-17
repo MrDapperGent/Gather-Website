@@ -117,13 +117,13 @@ The preferably played gamemode on our gather is '<a href="#">Capture the Flag</a
 <table class="commands">
 	<tr>
 		<td>!ginfo</td>
-		<td>Displays the randomized teams and tiebreaker map.</td>
+		<td>Displays the teams and tiebreaker map.</td>
 	</tr><tr>
 		<td>!map (name)</td>
 		<td>Will change the map (e.g. !map Ash).</td>
 		<tr>
 		<td>!maps</td>
-		<td>Displays all maps to select from.</td>
+		<td>Displays all available maps.</td>
 	</tr>
 	</tr><tr>
 		<td>!p</td>
@@ -136,7 +136,7 @@ The preferably played gamemode on our gather is '<a href="#">Capture the Flag</a
 		<td>Restarts the current map.</td>
 	</tr><tr>
 		<td>!tb</td>
-		<td>Changes map to the tiebreaker map.</td>
+		<td>Starts tiebreaker map.</td>
 	</tr><tr>
 		<td>!sub / !sub+</td>
 		<td>Will call a substitute player.</td>
