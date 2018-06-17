@@ -6,7 +6,7 @@ defined('GEU_INDEX') || die('This is probably not what you\'re looking for...');
 </div> <!-- /blue -->
 <div class="content">
 <h2>What are gather ranks?</h2>
-<p>Anyone is welcome to join our gathers and enjoy competitive Soldat, regardless of gamemode background or skill level. However, in the interest of preserving balance within games, four special
+<p>Anyone is welcome to join our gathers and enjoy competitive Soldat, regardless of gamemode background or skill level. However, in the interest of preserving balance within games, five special
  roles have been created to identify players who hold experience and who display proficiency in competitive play.</p>
 <p>
 <h2>Requirements for rank status</h2>
@@ -27,25 +27,24 @@ In order to keep your current rank, you have to be active, stay on the channel a
 <b>*</b><i>sometimes - often</i>
 </div>
 <div class="blue">
-<h2>LEVELS 1 & 2</h2>
+<h2>LEVELS 1 - 3</h2>
 </div> <!-- /blue -->
 <div class="content">
 <p>The Level 1 role denotes a player who has mastered the bare basics of 3v3 CTF gameplay and who is known to the community as an adequately competent player.
-  To qualify for the Level 1 role, a player must either (a) have cumulatively at least 6 months of 3v3 CTF experience in IRC gathers OR (b) demonstrate basic competence in an "observed gather".
-  To set up an "observed gather", simply contact ricerooney or D4sh; they will work with you to arrange either a spontaneous or scheduled observation. After the observation, the gather staff will discuss your performance
-  and will inform you of its decision regarding assigning you the role within a few days. To prevent exhausting the staff, an "observed gather" may only be requested once per month by a candidate player. The Level 1
-  role has no particular expectation of activity, thus wholly inactive or infrequently active players may be assigned this role. The Level 2 role is simply an "elevated" version of the Level 1 role intended for more advanced players.
+ To qualify for the Level 1 role, a player must either (a) have cumulatively at least 3 months of 3v3 CTF experience.
+ The Level 1 role has no particular expectation of activity, thus wholly inactive or infrequently active players may be assigned this role. The Level 2 role is simply an "elevated" version of the Level 1 role intended for more advanced players.
+ Level 3 will be assigned to experienced CTF gather players.
 </p> 
 </div>
 
 <div class="blue">
-<h2>LEVELS 3 & 4 (VOICED)</h2>
+<h2>LEVELS 4 & 5 (VOICED)</h2>
 </div> <!-- /blue -->
 <div class="content">
-<p>Players assigned the Level 3 and Level 4 roles have the option to !add+. The Level 3 role denotes an active, well-regarded player who excels in 3v3 CTF gameplay and who is capable of consistently competing at
- levels of high skill; the role may sometimes be referred  to as "voice" or "+" (alluding to its IRC equivalent). To qualify for the Level 3 role, the admins must determine that a player demonstrates (1) activity,
+<p>Players assigned the Level 4 and Level 5 roles have the option to '!add+". The Level 4 role denotes an active, well-regarded player who excels in 3v3 CTF gameplay and who is capable of consistently competing at
+ levels of high skill; the role may sometimes be referred  to as "voice" or "+" (alluding to its IRC equivalent). To qualify for the Level 4 role, the admins must determine that a player demonstrates (1) activity,
  (2) approval from the community, and (3) a level of skill which would not cause a disproportionate level of imbalance in gather+ games.
- All three aspects are necessary to be assigned the Level 3 role. The Level 4 role is simply an "elevated" version of the Level 3 intended for top players.</p>
+ All three aspects are necessary to be assigned the Level 4 role. The Level 5 role is simply an "elevated" version of the Level 4 intended for top players.</p>
 
 <!--
 <p>After two voice systems which proved to be ineffective, we decided to create a completely new one.
