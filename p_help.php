@@ -5,15 +5,16 @@ defined('GEU_INDEX') || die('This is probably not what you\'re looking for...');
 <h2>GETTING STARTED</h2>
 </div> <!-- /blue -->
 <div class="content">
-<h2>What is #Soldat Gather?</h2>
-<p>#Soldat Gather is a community on Discord, on which competitive matches are being organized. These matches are called gathers. Gathers are similar to what you might know from games such as CS:GO as '<a href="#">matchmaking</a>'.
-The preferably played gamemode on our gather is '<a href="#">Capture the Flag</a>' but we do also provide the option to play all other major <a href="#gamemodes">gamemodes</a>. Six players are needed to start a default gather, as the match is played 3 vs. 3 in CTF gamemode.</p>
+<h2><What is #Soldat Gather?</h2>
+<p>#Soldat Gather is a community on Discord, on which competitive matches are being organized. These matches are called gathers. Gathers are similar to what you might know from games such as 'CS:GO' as 'matchmaking'.</p>
+<p>The preferably played gamemode on our gather is 'Capture the Flag'.
+Six players are needed to start a default gather, as the match is played 3 vs. 3 in CTF gamemode.<p>
 <p>Players can add themselves to the gather queue by typing '!add' as a message on our #gather channel. Our bot will send you a personal message, containing the server IP/Port and password, once six players added to the gather queue.</p>
-<p>Players need to connect to the soldat server then and join their teams. The winning team will be determined in a <a href="#">best of three</a> (bo3) maps format.</p>
+<p>You will receive server details (IP & Port) by our bot once the gather has filled. Team Alpha picks the first map. The winning team will be determined in a <a href="#">best of three</a> (bo3) maps format.</p>
 <h2>Why should I play gathers?</h2>
-<p>Playing gathers actively, will rapidly turn you into a stronger player and you will have the chance to meet the best Soldat players and become a part of the competitive Soldat community.</p>
+<p>Playing gathers actively, will rapidly turn you into a stronger player. You will also have the chance to play against the best Soldat players in the world and become a part of the competitive Soldat community.</p>
 <h2>How to join?</h2>
-<p><a href="http://gather.soldat.pl/discord/" target="_blank">Join us</a> at #gather on Soldat's official Discord server and start playing! </p>
+<p><a href="http://gather.soldat.pl/discord/" target="_blank">Join us</a> at #gather on Soldat's official Discord server and start playing!</p>
 
 <!--<h2>Gather Tutorial:</h2>
 <p><a href="#">soldatgather.pdf</a> (english) <a href="#">soldatgather.pdf</a> (deutsch) <a href="#">soldatgather.pdf</a> (polska) <a href="#">soldatgather.pdf</a> (turkyie) <a href="#">soldatgather.pdf</a> (russia) <a href="#">soldatgather.pdf</a> (espanol) <a href="#">soldatgather.pdf</a> (czech)</p>
@@ -25,42 +26,42 @@ The preferably played gamemode on our gather is '<a href="#">Capture the Flag</a
 <div class="content">
 <table class="commands">
 	<tr>
-		<td>!status</td>
+		<td><strong>!status</strong></td>
 		<td>Will display the current status of the active queues.</td>
 	</tr><tr>
-		<td>!add</td>
+		<td><strong>!add</strong></td>
 		<td>Will add you to a CTF gather queue on european servers. The bot will balance the teams.
 	</tr>
 		<tr>
-		<td>!del</td>
+		<td><strong>!del</strong></td>
 		<td>Deletes you from the gather queue.</td>
 	</tr>
 	<tr>
-<td>!cadd</td>
+<td><strong>!cadd</strong></td>
 		<td>Will add you to a CTF captain-gather queue on european servers. Captains choose the teams. 
 	</tr>
 	<tr>
 			<tr>
-		<td>!addna</td>
-		<td>Will add you to a CTF gather queue on north-american servers. The bot will balance the teams.
+		<td><strong>!addna</strong></td>
+		<td>Will add you to a CTF gather queue on north-american servers. Our bot will balance the teams.
 	</tr>
-	<td>!caddna</td>
+	<td><strong>!caddna</strong></td>
 		<td>Will add you to a CTF captain-gather queue on north-american servers. Captains choose the teams. 
 	</tr>
 
 <tr>
-		<td>!sadd / !sadd+</td>
+		<td><strong>!sadd / !sadd+</strong></td>
 		<td>Add as an substitute if there's an open sub queue.</td>
 	</tr>
 	<tr>
-		<td>!players</td>
+		<td><strong>!players</strong></td>
 		<td>Lists all players who are currently in a gather server.</td>
 		<tr>
-		<td>!spec (id)</td>
+		<td><strong>!spec (id)</strong></td>
 		<td>Receive server details of a specific server. Replace (id) with the server number (e.g. !spec 1).</td>
 	</tr>
 		<tr>
-		<td>!msg (id)</td>
+		<td><strong>!msg (id)</strong></td>
 		<td>Sends a message to a specific Soldat server. Replace (id) with the server number (e.g. !msg 1 Hello!).</td>
 	</tr>
 	</tr><!--<tr>
@@ -116,39 +117,39 @@ The preferably played gamemode on our gather is '<a href="#">Capture the Flag</a
 <div class="content">
 <table class="commands">
 	<tr>
-		<td>!ginfo</td>
+		<td><strong>!ginfo</strong></td>
 		<td>Displays the teams and tiebreaker map.</td>
 	</tr><tr>
-		<td>!map (name)</td>
+		<td><strong>!map (name)</strong></td>
 		<td>Will change the map (e.g. !map Ash).</td>
 		<tr>
-		<td>!maps</td>
+		<td><strong>!maps</strong></td>
 		<td>Displays all available maps.</td>
 	</tr>
 	</tr><tr>
-		<td>!p</td>
+		<td><strong>!p</strong></td>
 		<td>Pauses the round.</td>
 	</tr><tr>
-		<td>!up</td>
+		<td><strong>!up</strong></td>
 		<td>Unpauses the round.</td>
 	</tr><tr>
-			<td>!r</td>
+			<td><strong>!r</strong></td>
 		<td>Restarts the current map.</td>
 	</tr><tr>
-		<td>!tb</td>
+		<td><strong>!tb</strong></td>
 		<td>Starts tiebreaker map.</td>
 	</tr><tr>
-		<td>!sub / !sub+</td>
+		<td><strong>!sub / !sub+</strong></td>
 		<td>Will call a substitute player.</td>
 	</tr><tr>
-		<td>!soff</td>
+		<td><strong>!soff</strong></td>
 		<td>Turns the sub call off.</td>
 	</tr><tr>
-			<td>!ub</td>
+			<td><strong>!ub</strong></td>
 		<td>Unbans the last player.</td>
 	</tr>
 	<tr>
-			<td>!msg</td>
+			<td><strong>!msg</strong></td>
 		<td>Sends a message to the Discord #Gather channel (e.g. !msg Hello!)</td>
 	</tr>
 	<!--<tr>
