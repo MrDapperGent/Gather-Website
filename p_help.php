@@ -5,7 +5,7 @@ defined('GEU_INDEX') || die('This is probably not what you\'re looking for...');
 <h2>GETTING STARTED</h2>
 </div> <!-- /blue -->
 <div class="content">
-<h2><What is #Soldat Gather?</h2>
+<h2>What is #Soldat Gather?</h2>
 <p>#Soldat Gather is a community on Discord, on which competitive matches are being organized. These matches are called gathers. Gathers are similar to what you might know from games such as 'CS:GO' as 'matchmaking'.</p>
 <p>The preferably played gamemode on our gather is 'Capture the Flag'.
 Six players are needed to start a default gather, as the match is played 3 vs. 3 in CTF gamemode.<p>

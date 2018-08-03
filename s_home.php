@@ -11,7 +11,7 @@ defined('GEU_INDEX') || die('This is probably not what you\'re looking for...');
 
 <h2>Soldat Trailer by: ComaG6PD</h2>
 <p><center>
-<iframe src="https://www.youtube.com/embed/JAGS3OG0SWs?vq=hd1080&showinfo=0&rel=0&iv_load_policy=3&controls=0" width="600" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/qdqlz0KRf6E?vq=hd1080&showinfo=0&rel=0&iv_load_policy=3&color=white&controls=0&disablekb=1" width="600" height="315" frameborder="0"></iframe>
 <!--<img src="../images/screen_1.png" alt="Soldat 2D Game Screenshot 1;"/>
 <img src="../images/screen_2.png" alt="Soldat 2D Game Screenshot 2;"/>-->
 
